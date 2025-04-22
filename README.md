@@ -1,4 +1,4 @@
-#📊 Graduate Pay Disparity Dashboard
+📊 Graduate Pay Disparity Dashboard
 This dashboard visualizes income disparities among Canadian graduates, comparing domestic vs. international graduates based on gender, province, course stream, and educational qualifications.
 
 Key insights include:
